@@ -6,5 +6,5 @@
 #### **Estou no:**
 - [**Instagram**](https://www.instagram.com/tales_cruzs/?hl=pt-br)
 - [**Facebook**](https://www.facebook.com/talescs/)
-> "Descubra o que você ama e deixe que isso te mate"
+> "Descubra o que você ama e deixe que isso te mate"  
 -Charles Bukowski
