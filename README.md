@@ -1,6 +1,6 @@
-# **Olá** 👋
-**Sou o Tales**
-**Natural de Formigueiro RS - Brasil**
+# **Olá** 👋  
+**Sou o Tales**  
+**Natural de Formigueiro RS - Brasil**  
 **Estou cursando ensino médio técnico integrado em informática para internet - CTISM/UFSM - 2/3**
 ***
 #### **Estou no:**
