@@ -1,5 +1,5 @@
 # **Olá** 👋  
-Sou o Tales	
+Sou o Tales <br>
 Gaúcho, natural de Formigueiro mas vivo em Santa Maria	
 **Estou cursando ensino médio técnico integrado em informática para internet - CTISM/UFSM - 2/3**	
 ***
