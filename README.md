@@ -1,7 +1,6 @@
 ### **Fala tu!! 😀**
 Me chamo Tales. Sou gaúcho, natural de Formigueiro, mas vivo em Santa Maria. <br>
-Estou cursando ensino médio técnico integrado em informática para internet - CTISM/UFSM - Terceiro (e último) ano. <br>
-Pretendo seguir na área da TI, com foco em programação, possivelmente cursando ou CC ou SI.
+Estou cursando Bacharel em Sistemas de Informação na Universidade Federal de Santa Maria. <br>
 ***
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Talescruzs&show_icons=true&title_color=ff0000&text_color=f5f5f5&icon_color=ff0000&bg_color=170606&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -14,9 +13,10 @@ Pretendo seguir na área da TI, com foco em programação, possivelmente cursand
 ![Python](https://img.shields.io/badge/Python-1?style=for-the-badge&color=yellow&logo=python&logoColor=black) 
 
 ![Java](https://img.shields.io/badge/java-1?style=for-the-badge&color=orange)
+![C](https://img.shields.io/badge/-1?style=for-the-badge&color=inactive&logo=C&logoColor=black)
 
 ![PHP](https://img.shields.io/badge/PHP-1?style=for-the-badge&color=blueviolet&logo=php&logoColor=black)
-![C](https://img.shields.io/badge/-1?style=for-the-badge&color=inactive&logo=C&logoColor=black)
+
 
 ### **Frameworks:**
 ![Selenium](https://img.shields.io/badge/Selenium-1?style=for-the-badge&color=green&logo=selenium&logoColor=black)
