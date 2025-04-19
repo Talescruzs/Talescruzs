@@ -1,8 +1,8 @@
 ### **Fala tu!! 😀**
 
 Me chamo Tales. Sou gaúcho, natural de Formigueiro, mas vivo em Santa Maria. <br>
-Sou técnico em informática para a interner, formado pelo Colégio Técnico Industrial de Santa Maria (CTISM) no ano de 2022 <br>
-Estou cursando Bacharel em Sistemas de Informação na Universidade Federal de Santa Maria (UFSM).<br>
+Sou técnico em informática para a internet, formado pelo Colégio Técnico Industrial de Santa Maria (CTISM) no ano de 2022 <br>
+Estou cursando Ciência da Computação na Universidade Federal de Santa Maria (UFSM).<br>
 
 ---
 
